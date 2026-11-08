@@ -1,13 +1,44 @@
-# paramveer sinh zala · pali2410
+<div align="center">
 
-A world, built one commit at a time.
+# paramveer sinh zala
 
-[![Explore my developer universe](https://pali2410.github.io/custom/images/contribution-assembly.gif)](https://pali2410.github.io/custom/)
+### A world, built one commit at a time.
 
-**[Enter the interactive 3D universe →](https://pali2410.github.io/custom/)**
+Code, experiments, and small pieces that become something bigger.
 
-Explore a brick-built landscape driven by my real GitHub contributions, a neural network you can train, a physics workbench, and my public projects.
+**[ENTER MY INTERACTIVE 3D UNIVERSE ↗](https://pali2410.github.io/custom/)**
 
-[Repositories](https://github.com/pali2410?tab=repositories) · [Universe source](https://github.com/pali2410/custom)
+[![My real GitHub activity assembling into a brick-built landscape. Click to explore in 3D.](https://pali2410.github.io/custom/images/contribution-assembly.gif)](https://pali2410.github.io/custom/)
 
-<!-- Prepared inside custom only. This file is not published to a profile repository. Use the hosted image after the GitHub Pages deployment succeeds. -->
+*Real contributions. Real dates. A different perspective.*
+
+</div>
+
+---
+
+## Step inside the universe
+
+The artwork above is the entrance. Open the full experience to orbit the landscape, inspect individual dates, switch years, and explore the world behind the pixels.
+
+| Explore | What you can do |
+| :--- | :--- |
+| **Contribution landscape** | Watch real GitHub activity assemble into a landscape of modular bricks. Select a day to see its contribution count. |
+| **Neural laboratory** | Train a working neural network on XOR. Inspect activations, learned weights, predictions, and loss. |
+| **Physics workbench** | Drop bricks into a miniature world with gravity, collisions, friction, and stacking. |
+| **Project district** | Explore modular buildings connected to public repositories. |
+
+## A network that actually learns
+
+[![Neural laboratory: actual trained weights and activations from a 2-input, 4-hidden-neuron XOR network.](https://pali2410.github.io/custom/images/neural-laboratory.svg)](https://pali2410.github.io/custom/#explore)
+
+This educational network uses tanh hidden neurons, a sigmoid output, and backpropagation. In the interactive laboratory, change the inputs and train it yourself.
+
+---
+
+<div align="center">
+
+**[Explore the universe](https://pali2410.github.io/custom/)** · **[Browse the source](https://github.com/pali2410/custom)** · **[Public repositories](https://github.com/pali2410?tab=repositories)**
+
+<sub>The contribution artwork uses timestamped GitHub API data, refreshed by the application’s daily workflow. Interactive WebGL scenes open on the linked website.</sub>
+
+</div>

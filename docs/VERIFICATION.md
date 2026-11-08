@@ -1,5 +1,13 @@
 # Verification · 8 November 2026
 
+## Publication update
+
+The initial access blocker described below was resolved using the saved `pali2410` Git Credential Manager login. Application commit `b5b20cc` was pushed to `pali2410/custom`. GitHub Pages was enabled with the Actions publishing source, and run `42485776126` completed successfully after rerunning its deployment job. The live application, bundles, fonts, data, GIF, and SVG returned HTTP 200, and the deployed contribution scene rendered without browser console errors.
+
+Following the user's clarification that the actual GitHub profile should change, the personal public profile repository `pali2410/pali2410` was created and its README published in commit `7e1c5ec`. The profile at `https://github.com/pali2410` visibly renders the contribution GIF, neural SVG, and universe links. No client repository was modified. The application source remains in `custom`.
+
+The following sections record the initial local verification and its limits at that time.
+
 Only the local clone of `pali2410/custom` was changed. No other remote repository was modified, no profile repository was created, and the original README heading and Git history were retained.
 
 ## Passed

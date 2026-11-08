@@ -1,6 +1,8 @@
 # custom · Developer Universe
 
-The source for **pali2410’s interactive developer universe**. This application README is separate from the optional profile entrance in [docs/PROFILE-README.md](docs/PROFILE-README.md). No other repository is modified.
+The source for **pali2410’s interactive developer universe**. This application README is separate from the published personal profile entrance in [docs/PROFILE-README.md](docs/PROFILE-README.md). The application lives in `pali2410/custom`; the profile README lives in `pali2410/pali2410`. Client repositories are untouched.
+
+**[Open the live universe](https://pali2410.github.io/custom/)** · **[View the GitHub profile](https://github.com/pali2410)**
 
 ![Contribution landscape](public/images/contribution-landscape.png)
 
